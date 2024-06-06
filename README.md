@@ -1,0 +1,2 @@
+# mimmy
+personal website
