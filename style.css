@@ -1,0 +1,90 @@
+css
+/* Reset default margin and paddling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*  Body styles*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height:1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/*Header styles*/
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/*Navigation styles*/
+nav {
+    background-color: #444;
+    padding: 10px;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li{
+    display:inline;
+    margin: right 20px;
+}
+
+nav ul li a{
+    color:#fff
+    text-decoration:none;
+    font-size: 18px;
+}
+
+.container {
+    margin: 20px auto;
+    width:50%
+}  
+
+label{
+    font-weight:bold;
+    font-size: 18px;
+    color: #333;
+}
+
+input{type="text"}
+input{type="email"}
+textarea {
+    width:100%;
+    padding: 10px;
+    margin:5px 0;
+    box-sizing:border-box;
+} 
+
+input{type="submit"}:hover{
+    background-color: #555;
+    color: #fff;
+    padding: 10px 20px;
+    border:none;
+    cursor:pointer;
+}
+ 
+input{type="submit"}:hover{
+    background-color: #555;
+}
+
+footer {
+    background-color: #333;
+    color:#fff;
+    text-align:center;
+    paddling:10px;
+    position:fixed;
+    bottom:0;
+    width:100%
+}    
+
+input{type}
+
